@@ -56,7 +56,11 @@ main{
     padding: 11px 26px;
     border-radius: 8px;
 
-} #new_task{
+} 
+
+
+
+#new_task{
     background-color: white;
     margin-top: 5px;
     padding: 50px;
@@ -71,11 +75,63 @@ section{
 font-size: 20px;
 line-height: 50px;
 margin-left: 55px;
+}
 
+.cross{
+    font-size: 20px;
+line-height: 50px;
+margin-left: 55px;
 }
 
 #blue{
     background-color: #09A9ED;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+#today{
+    margin-top: -15px;
+    padding: 50px;
+    padding-bottom: 0px
+}
+
+#purple{
+    background-color:#AB5DE6;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+#green{
+    background-color:#2CC6AB;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+#orange{
+    background-color:#FF9B00;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+#Upcoming{
+    margin-top: -15px;
+    padding: 50px;
+    padding-bottom: 0px
+}
+
+#purplelight{
+    background-color:#EC4A9D;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;   
+}
+
+#softgreen{
+    background-color:#A3D116;
     padding: 5px;
     border-radius: 5px;
     color: white;
