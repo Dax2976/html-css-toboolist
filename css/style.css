@@ -37,6 +37,8 @@ img{
 }
 main{
     padding: 3rem;
+    margin: 150px;
+    margin-top: 10px;
 }
 #bluecontainer{
     background-color: #09A9ED;
@@ -54,4 +56,27 @@ main{
     padding: 11px 26px;
     border-radius: 8px;
 
+} #new_task{
+    background-color: white;
+    margin-top: 5px;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+
+section{
+    background-color: white;
+}
+
+.check{
+font-size: 20px;
+line-height: 50px;
+margin-left: 55px;
+
+}
+
+#blue{
+    background-color: #09A9ED;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
 }
