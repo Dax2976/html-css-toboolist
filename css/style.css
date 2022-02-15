@@ -1,0 +1,57 @@
+:var{
+    color:#09A9ED;
+    color: #AB5DE6;
+    color: #2CC6AB;
+    color: #FF9B00;
+    color: #EC4A9D;
+    color: #A3D116;
+    color: #F6F8F9;
+}
+
+body{
+    background-color:#F6F8F9;
+    margin: 0 auto;
+}
+
+.logo{
+    background-color: white;
+    font: roboto 400;
+}
+
+img{
+    height: 7rem;
+}
+
+.title{
+    display: inline-block;
+    vertical-align: top;
+    font-size: xxx-large;
+}
+
+#container{
+    background-color: white;
+    padding: 35px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    
+}
+main{
+    padding: 3rem;
+}
+#bluecontainer{
+    background-color: #09A9ED;
+    border-radius: 8px;
+    padding:12px 28px;
+    color: white;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+#greycontainer{
+    background-color: white;
+    border: 0.2px solid lightgrey;
+    color: lightgrey;
+    padding: 11px 26px;
+    border-radius: 8px;
+
+}
